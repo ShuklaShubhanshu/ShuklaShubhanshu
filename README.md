@@ -1,10 +1,9 @@
 
 👋 Hi, I’m @SHUBHANSHU SHUKLA
 - 👀 I’m interested in JAVA ,WEB Development and AIML.
-- 🌱 I’m currently learning Data Structrures , REACT and Backend development.
+- 🌱 I have decent knowledge about Data Structrures , REACT and Backend development.
 - 💞 I’m looking to collaborate on Web Development projects.
-- 📫 How to reach me -- Mail me at  --  shubhanshu.shukla_cs.aiml19@gla.ac.in
-
+- 📫 How to reach me -- Mail me at  --  shubhanshushukla1975@gmail.com
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShuklaShubhanshu&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="ShuklaShubhanshu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShuklaShubhanshu&show_icons=true&locale=en&theme=radical&count_private=true" alt="ShuklaShubhanshu" /></p>
